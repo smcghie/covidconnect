@@ -11,7 +11,6 @@ Log into the app to maintain your security and privacy
 ![2](https://user-images.githubusercontent.com/26985349/111089912-28743580-8504-11eb-95b0-0d7cf32199bc.PNG)
 
 If volunteering, you're presented with a list of seniors and their respective needs.
-
 ![3](https://user-images.githubusercontent.com/26985349/111089927-345ff780-8504-11eb-8246-59f5326b0b23.PNG)
 
 You can select a senior to begin a chat dialog with them to further discuss their situation
