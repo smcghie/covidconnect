@@ -7,7 +7,7 @@ Check out a demo here: https://youtu.be/rc0u6fIOdnA
 
 You can find Figma prototype here: https://www.figma.com/file/nPljjD6jOgZ0SFaTVLTzRq/HCI-Assignment-2
 
-Log into the app to maintain your security and privacy:
+Log into the app to maintain your security and privacy
 ![2](https://user-images.githubusercontent.com/26985349/111089912-28743580-8504-11eb-95b0-0d7cf32199bc.PNG)
 
 If volunteering, you're presented with a list of seniors and their respective needs.
