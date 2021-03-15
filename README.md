@@ -1,6 +1,7 @@
 # covidconnect
 
 Created by Scott McGhie
+
 Covid Connect is an application that is designed to connect seniors in need of help during these perilous times, and volunteers who could assist with these needs in any way they can.
 
 Check out a demo here: https://youtu.be/rc0u6fIOdnA
