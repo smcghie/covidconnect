@@ -36,6 +36,15 @@ There are also general guides for assistance
 ![10](https://user-images.githubusercontent.com/26985349/111090033-8e60bd00-8504-11eb-99fd-e19379f0dcd4.PNG)
 
 
+Top Five New Desirable Functionalities
+ 
+1. Connect to people who can't use the app through registration at doctor's office etc.
+2. Integration with various social medias for better exposure to potential users
+3. Suggest safety recommendations based on location
+4. Video chat between users for assistance and support
+5. Priority selection of problems
+
+
 
 
 
